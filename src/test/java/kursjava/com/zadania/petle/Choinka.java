@@ -1,4 +1,4 @@
-package kursjava.com.zadania;
+package kursjava.com.zadania.petle;
 
 import java.util.Scanner;
 /*Napisz program, który pobierze od użytkownika jedną liczbę całkowitą. Następnie, program powinien wypisać

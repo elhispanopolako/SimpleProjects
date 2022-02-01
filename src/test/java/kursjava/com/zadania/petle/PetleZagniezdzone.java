@@ -1,4 +1,4 @@
-package kursjava.com.zadania;
+package kursjava.com.zadania.petle;
 /*Napisz program z dwoma pętlami (jedna zagnieżdżona w drugiej), każda z pętli powinna iterować od 1 do 10.
 
    Pętla główna powinna pomijać swoje iteracje za pomocą instrukcji continue, gdy jej zmienna jest nieparzysta.

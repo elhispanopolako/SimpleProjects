@@ -6,7 +6,7 @@ public class AgeChecker {
         System.out.println("Podaj swój wiek");
         int age = scanner.nextInt();
         if (age <= 0) {
-            System.out.println("Jeszcze Cie nie ma swiecie");
+            System.out.println("Jeszcze Cie nie ma na świecie");
         }
         else if (age < 18) {
             System.out.println("Jesteś niepełnoletni");

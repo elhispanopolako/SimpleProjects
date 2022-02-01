@@ -1,4 +1,4 @@
-package kursjava.com.zadania;
+package kursjava.com.zadania.petle;
 //Napisz program, który z liczb podanych przez użytkownika wypisze największą.
 // Program po pobraniu każdej liczby powinien pytać, czy użytkownik chce podać kolejną liczbę.
 // Po podaniu liczb, program powinien wypisać największą z nich.
